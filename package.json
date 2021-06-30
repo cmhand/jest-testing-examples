@@ -1,0 +1,22 @@
+{
+  "name": "jest-testing-examples",
+  "version": "1.0.0",
+  "description": "An example repo for javascript testing with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.5",
+    "typescript": "^4.3.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "@babel/preset-typescript": "^7.14.5",
+    "@types/jest": "^26.0.23",
+    "babel-jest": "^27.0.6"
+  }
+}
